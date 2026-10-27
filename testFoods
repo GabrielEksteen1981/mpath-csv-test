@@ -1,0 +1,13 @@
+ID;foods_cat;food;portion;grams;protein_unit
+1;eggs;whole;small;50;12
+2;eggs;whole;medium;60;12
+3;eggs;white;small;50;7
+4;eggs;white;medium;60;7
+5;eggs;yellow;small;50;6
+6;eggs;yellow;medium;60;6
+7;seafood;lean;small;60;18
+8;seafood;lean;medium;90;18
+9;seafood;lean;large;120;18
+10;seafood;squid;small;30;16
+11;seafood;squid;medium;65;16
+12;seafood;squid;large;135;16
