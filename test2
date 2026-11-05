@@ -68,7 +68,6 @@ Milk and alternatives;"Plant-based milk, soy";3;1;"Added to tea or coffee, small
 Milk and alternatives;"Plant-based milk, soy";3;1;Added to cereal or porridge (50 ml);50;dairy and meat replacers
 Milk and alternatives;"Plant-based milk, soy";3;1;Small glass (150 ml);150;dairy and meat replacers
 Milk and alternatives;"Plant-based milk, soy";3;1;Standard glass or cup (240 ml);240;dairy and meat replacers
-Eggs;"--- none, please select ---";0;;"--- none, please select ---";0;
 Eggs;"Egg, whole";12.4;0;Quail egg (10 g);9;eggs
 Eggs;"Egg, whole";12.4;0;Large hen egg (68 g);60;eggs
 Eggs;"Egg, whole";12.4;0;Duck egg (70 g);63;eggs
@@ -81,7 +80,6 @@ Eggs;"Egg, yolk only";5.5;0;Quail egg (10 g);9;eggs
 Eggs;"Egg, yolk only";5.5;0;Large hen egg (68 g);60;eggs
 Eggs;"Egg, yolk only";5.5;0;Duck egg (70 g);63;eggs
 Eggs;"Egg, yolk only";5.5;0;Extra-large hen egg (78 g);69;eggs
-Fish and seafood;"--- none, please select ---";0;;"--- none, please select ---";0;
 Fish and seafood;"Fish, lean, marine or freshwater";18;0;Small fish fillet (60 g);60;seafood
 Fish and seafood;"Fish, lean, marine or freshwater";18;0;Typical fish fillet (90 g);90;seafood
 Fish and seafood;"Fish, lean, marine or freshwater";18;0;Large fish fillet (150 g);150;seafood
@@ -129,7 +127,6 @@ Fish and seafood;Squid or octopus;16;0;Small seafood portion (15 g edible);15;se
 Fish and seafood;Squid or octopus;16;0;Medium seafood portion (30 g edible);30;seafood
 Fish and seafood;Squid or octopus;16;0;Half a cup of cooked squid/calamari (65 g);65;seafood
 Fish and seafood;Squid or octopus;16;0;One cup of cooked squid/calamari (135 g);135;seafood
-Fruit;"--- none, please select ---";0;;"--- none, please select ---";0;
 Fruit;"Fruit, dried";3;1;Dried fruit bar or stick (20 g);20;"fruit, vegetables, potatoes"
 Fruit;"Fruit, dried";3;1;Small handful of dried fruit (30 g);30;"fruit, vegetables, potatoes"
 Fruit;"Fruit, dried";3;1;Medium handful of dried fruit (50 g);50;"fruit, vegetables, potatoes"
@@ -150,7 +147,6 @@ Fruit;"Fruit, smoothie, no dairy";1;1;Small glass (150 ml);150;"fruit, vegetable
 Fruit;"Fruit, smoothie, no dairy";1;1;Medium glass (200 ml);200;"fruit, vegetables, potatoes"
 Fruit;"Fruit, smoothie, no dairy";1;1;Large glass (250 ml);250;"fruit, vegetables, potatoes"
 Fruit;"Fruit, smoothie, no dairy";1;1;Bottle (330 ml);330;"fruit, vegetables, potatoes"
-Vegetables;"--- none, please select ---";0;;"--- none, please select ---";0;
 Vegetables;"Broccoli, cauliflower and cabbage";2.5;1;Typical portion;50;"fruit, vegetables, potatoes"
 Vegetables;"Leafy, e.g. spinach and lettuce";1.5;1;Typical portion;50;"fruit, vegetables, potatoes"
 Vegetables;Mushrooms;3;1;Typical portion;50;"fruit, vegetables, potatoes"
@@ -160,7 +156,6 @@ Vegetables;"Root, excluding potatoes, e.g. carrots, beetroot and parsnips";1;1;T
 Vegetables;"Stem, e.g. asparagus, celery and leek";1.5;1;Typical portion;100;"fruit, vegetables, potatoes"
 Vegetables;Sweetcorn and mixed canned vegetables;1.5;1;Typical portion;50;"fruit, vegetables, potatoes"
 Vegetables;"Tomatoes, fresh, canned or purée";1;1;Typical portion;100;"fruit, vegetables, potatoes"
-Sauces;"--- none, please select ---";0;;"--- none, please select ---";0;
 Sauces;Barbecue and steak sauces;1;1;1 teaspoon;5;other
 Sauces;Barbecue and steak sauces;1;1;1 tablespoon;15;other
 Sauces;Barbecue and steak sauces;1;1;Small serving with a meal;50;other
@@ -209,7 +204,6 @@ Sauces;"Yoghurt sauces, e.g. tzatziki";4;0;1 tablespoon;15;other
 Sauces;"Yoghurt sauces, e.g. tzatziki";4;0;2 tablespoons;30;other
 Sauces;"Yoghurt sauces, e.g. tzatziki";4;0;Small serving with a meal;50;other
 Sauces;"Yoghurt sauces, e.g. tzatziki";4;0;Medium serving with a meal;100;other
-Chocolates and sweets;"--- none, please select ---";0;;"--- none, please select ---";0;
 Chocolates and sweets;"Chocolate, plain, dark or milk";7;1;One small chocolate square (5 g);5;other
 Chocolates and sweets;"Chocolate, plain, dark or milk";7;1;Two small chocolate squares (10 g);10;other
 Chocolates and sweets;"Chocolate, plain, dark or milk";7;1;One small chocolate bar or snack bar (25 g);25;other
@@ -242,7 +236,6 @@ Chocolates and sweets;"Other sweets, without nuts or chocolate";0;0;One small sw
 Chocolates and sweets;"Other sweets, without nuts or chocolate";0;0;Two small sweets or toffees (10 g);10;other
 Chocolates and sweets;"Other sweets, without nuts or chocolate";0;0;Small handful of sweets (25 g);25;other
 Chocolates and sweets;"Other sweets, without nuts or chocolate";0;0;Small packet of sweets (50 g);50;other
-Soups;"--- none, please select ---";0;;"--- none, please select ---";0;
 Soups;"Bouillon or consommé, meat, chicken or vegetable stock";0.5;0;Small cup (150 ml);150;meat
 Soups;"Bouillon or consommé, meat, chicken or vegetable stock";0.5;0;Standard cup (200 ml);200;meat
 Soups;"Bouillon or consommé, meat, chicken or vegetable stock";0.5;0;Small bowl (250 ml);250;meat
@@ -275,7 +268,6 @@ Soups;"Vegetables, tomato, carrot, leek or mixed vegetables";1.8;1;Small cup (15
 Soups;"Vegetables, tomato, carrot, leek or mixed vegetables";1.8;1;Standard cup (200 ml);200;"fruit, vegetables, potatoes"
 Soups;"Vegetables, tomato, carrot, leek or mixed vegetables";1.8;1;Standard bowl (350 ml);350;"fruit, vegetables, potatoes"
 Soups;"Vegetables, tomato, carrot, leek or mixed vegetables";1.8;1;Large bowl (500 ml);500;"fruit, vegetables, potatoes"
-Breakfast cereals and porridge;"--- none, please select ---";0;;"--- none, please select ---";0;
 Breakfast cereals and porridge;"Cereal, flakes, e.g. cornflakes, wheat flakes or bran flakes";8;1;Small bowl of dry cereal (30 g);30;cereals and grains
 Breakfast cereals and porridge;"Cereal, flakes, e.g. cornflakes, wheat flakes or bran flakes";8;1;Standard bowl of dry cereal (45 g);45;cereals and grains
 Breakfast cereals and porridge;"Cereal, flakes, e.g. cornflakes, wheat flakes or bran flakes";8;1;Large bowl of dry cereal (60 g);60;cereals and grains
@@ -307,7 +299,6 @@ Breakfast cereals and porridge;"Porridge oats, plain, dry";13;1;Small serving of
 Breakfast cereals and porridge;"Porridge oats, plain, dry";13;1;Standard serving of dry oats (45 g);45;cereals and grains
 Breakfast cereals and porridge;"Porridge oats, plain, dry";13;1;Large serving of dry oats (60 g);60;cereals and grains
 Breakfast cereals and porridge;"Porridge oats, plain, dry";13;1;Extra-large serving of dry oats (90 g);90;cereals and grains
-Cereals and grains;"--- none, please select ---";0;;"--- none, please select ---";0;
 Cereals and grains;"Bran, wheat or oat, dry";16;1;1 tablespoon bran (5 g);5;cereals and grains
 Cereals and grains;"Bran, wheat or oat, dry";16;1;2 tablespoons bran (10 g);10;cereals and grains
 Cereals and grains;"Bran, wheat or oat, dry";16;1;¼ cup bran (15 g);15;cereals and grains
@@ -344,7 +335,6 @@ Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;½ cup cooked r
 Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;1 cup cooked rice (180 g);180;cereals and grains
 Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;1½ cups cooked rice (270 g);270;cereals and grains
 Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;Large serving of cooked rice (350 g);350;cereals and grains
-"Biscuits, cakes and pastries";"--- none, please select ---";0;;"--- none, please select ---";0;
 "Biscuits, cakes and pastries";"Biscuits, filled or coated";5.5;1;One small biscuit (10 g);10;cereals and grains
 "Biscuits, cakes and pastries";"Biscuits, filled or coated";5.5;1;One large or filled biscuit (20 g);20;cereals and grains
 "Biscuits, cakes and pastries";"Biscuits, filled or coated";5.5;1;Two large or filled biscuits (40 g);40;cereals and grains
@@ -381,7 +371,6 @@ Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;Large serving o
 "Biscuits, cakes and pastries";Sweet dumplings;5;1;One sweet dumpling (100 g);100;cereals and grains
 "Biscuits, cakes and pastries";Sweet dumplings;5;1;Two sweet dumplings (200 g);200;cereals and grains
 "Biscuits, cakes and pastries";Sweet dumplings;5;1;Large serving (300 g);300;cereals and grains
-"Nuts, seeds, butters";"--- none, please select ---";0;;"--- none, please select ---";0;
 "Nuts, seeds, butters";"Nut or seed butters, e.g. almond or sesame";18;1;Thin spread on one slice of bread;10;nuts and seeds
 "Nuts, seeds, butters";"Nut or seed butters, e.g. almond or sesame";18;1;Standard spread on one slice of bread;15;nuts and seeds
 "Nuts, seeds, butters";"Nut or seed butters, e.g. almond or sesame";18;1;Generous spread on one slice of bread;25;nuts and seeds
@@ -406,7 +395,6 @@ Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;Large serving o
 "Nuts, seeds, butters";"Seeds, sunflower or pumpkin";23;1;1 tablespoon seeds;10;nuts and seeds
 "Nuts, seeds, butters";"Seeds, sunflower or pumpkin";23;1;1 tablespoon added to food;15;nuts and seeds
 "Nuts, seeds, butters";"Seeds, sunflower or pumpkin";23;1;2 tablespoons added to food;30;nuts and seeds
-"Beans, lentils, peas";"--- none, please select ---";0;;"--- none, please select ---";0;
 "Beans, lentils, peas";"Canned, beans, chickpeas, lentils or peas, drained";6;1;"Small serving of cooked or canned legumes, drained";75;legumes
 "Beans, lentils, peas";"Canned, beans, chickpeas, lentils or peas, drained";6;1;"Half a cup of cooked or canned legumes, drained";85;legumes
 "Beans, lentils, peas";"Canned, beans, chickpeas, lentils or peas, drained";6;1;"One cup of cooked or canned legumes, drained";170;legumes
@@ -428,7 +416,6 @@ Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;Large serving o
 "Beans, lentils, peas";"Flour, chickpea, lentil or pea, dry weight";22;1;Two tablespoons pulse flour;20;legumes
 "Beans, lentils, peas";"Flour, chickpea, lentil or pea, dry weight";22;1;Quarter cup pulse flour;30;legumes
 "Beans, lentils, peas";"Flour, chickpea, lentil or pea, dry weight";22;1;Half a cup pulse flour;60;legumes
-"Yoghurt, dairy desserts and cream";"--- none, please select ---";0;;"--- none, please select ---";0;
 "Yoghurt, dairy desserts and cream";Condensed milk;7;0;One tablespoon of condensed milk (20 g);20;dairy
 "Yoghurt, dairy desserts and cream";Condensed milk;7;0;Two tablespoons of condensed milk (40 g);40;dairy
 "Yoghurt, dairy desserts and cream";Condensed milk;7;0;Small serving of condensed milk (60 g);60;dairy
@@ -474,7 +461,6 @@ Cereals and grains;"Rice, cooked, white, brown or basmati";2.7;1;Large serving o
 "Yoghurt, dairy desserts and cream";"Yoghurt drink, plain, flavoured or sweetened";3;0;Small yoghurt drink (100 ml);100;dairy
 "Yoghurt, dairy desserts and cream";"Yoghurt drink, plain, flavoured or sweetened";3;0;Standard yoghurt drink (200 ml);200;dairy
 "Yoghurt, dairy desserts and cream";"Yoghurt drink, plain, flavoured or sweetened";3;0;Large yoghurt drink (300 ml);300;dairy
-Cheese;"--- none, please select ---";0;;"--- none, please select ---";0;
 Cheese;Cottage cheese;12;0;Small serving of cottage cheese (100 g);100;dairy
 Cheese;Cottage cheese;12;0;Standard serving of cottage cheese (150 g);150;dairy
 Cheese;Cottage cheese;12;0;Large serving of cottage cheese (200 g);200;dairy
@@ -511,7 +497,6 @@ Cheese;"Soft, e.g. Brie or Camembert";19;0;Thick slice or large piece (35 g);35;
 Cheese;Cheese spread;8;0;Small spoonful of cheese spread (10 g);10;dairy
 Cheese;Cheese spread;8;0;Standard spread on one slice of bread (15 g);15;dairy
 Cheese;Cheese spread;8;0;Generous spread on one slice of bread (25 g);25;dairy
-Protein supplements;"--- none, please select ---";0;;"--- none, please select ---";0;
 Protein supplements;Meal-replacement bars;20;0;Small protein bar (40 g);40;protein supplements
 Protein supplements;Meal-replacement bars;20;0;Standard protein bar (55 g);55;protein supplements
 Protein supplements;Meal-replacement bars;20;0;Large protein bar (70 g);70;protein supplements
@@ -530,7 +515,6 @@ Protein supplements;"Protein powder, dairy-based, e.g. whey, casein or milk prot
 Protein supplements;"Protein powder, plant-based, e.g. pea, soy or rice";75;1;Small serving of protein powder (15 g);15;protein supplements
 Protein supplements;"Protein powder, plant-based, e.g. pea, soy or rice";75;1;Standard scoop of protein powder (30 g);30;protein supplements
 Protein supplements;"Protein powder, plant-based, e.g. pea, soy or rice";75;1;Large serving of protein powder (40 g);40;protein supplements
-Plant-based meat alternatives;"--- none, please select ---";0;;"--- none, please select ---";0;
 Plant-based meat alternatives;"Meat imitation products, e.g. Beyond burgers";17;1;Small plant-based burger or patty (75 g);75;protein supplements
 Plant-based meat alternatives;"Meat imitation products, e.g. Beyond burgers";17;1;Standard plant-based burger or patty (100 g);100;dairy and meat replacers
 Plant-based meat alternatives;"Meat imitation products, e.g. Beyond burgers";17;1;Large plant-based burger or patty (150 g);150;dairy and meat replacers
@@ -556,7 +540,6 @@ Plant-based meat alternatives;"Tofu, firm or silken";12;1;Large serving of tofu 
 Plant-based meat alternatives;"Wheat protein, e.g. seitan";20;1;Small serving of seitan (75 g);75;dairy and meat replacers
 Plant-based meat alternatives;"Wheat protein, e.g. seitan";20;1;Standard serving of seitan (100 g);100;dairy and meat replacers
 Plant-based meat alternatives;"Wheat protein, e.g. seitan";20;1;Large serving of seitan (150 g);150;dairy and meat replacers
-Plant-based dairy alternatives;"--- none, please select ---";0;;"--- none, please select ---";0;
 Plant-based dairy alternatives;"Cheese, plant-based";1;1;Small plant-based cheese serving (20 g);20;dairy and meat replacers
 Plant-based dairy alternatives;"Cheese, plant-based";1;1;Standard plant-based cheese serving (40 g);40;dairy and meat replacers
 Plant-based dairy alternatives;"Cheese, plant-based";1;1;Large plant-based cheese serving (60 g);60;dairy and meat replacers
@@ -575,7 +558,6 @@ Plant-based dairy alternatives;"Yoghurt, plant-based, e.g. soy, coconut, almond 
 Plant-based dairy alternatives;"Yoghurt, plant-based, high-protein";5;1;Small high-protein plant-based yoghurt pot (150 g);150;dairy and meat replacers
 Plant-based dairy alternatives;"Yoghurt, plant-based, high-protein";5;1;Standard high-protein plant-based yoghurt pot (200 g);200;dairy and meat replacers
 Plant-based dairy alternatives;"Yoghurt, plant-based, high-protein";5;1;Large bowl of high-protein plant-based yoghurt (250 g);250;dairy and meat replacers
-Potatoes;"--- none, please select ---";0;;"--- none, please select ---";0;
 Potatoes;"Baked, whole or wedges, without added oil";2.5;1;One medium baked potato (150 g);150;"fruit, vegetables, potatoes"
 Potatoes;"Baked, whole or wedges, without added oil";2.5;1;Standard serving of baked potato or wedges (200 g);200;"fruit, vegetables, potatoes"
 Potatoes;"Baked, whole or wedges, without added oil";2.5;1;One large baked potato (250 g);250;"fruit, vegetables, potatoes"
@@ -599,7 +581,6 @@ Potatoes;"Potato products, waffles, croquettes, rösti or potato cakes";3;1;One 
 Potatoes;"Roasted, chunks or roast potatoes";2.5;1;Small serving of roasted potatoes (150 g);150;"fruit, vegetables, potatoes"
 Potatoes;"Roasted, chunks or roast potatoes";2.5;1;Standard serving of roasted potatoes (200 g);200;"fruit, vegetables, potatoes"
 Potatoes;"Roasted, chunks or roast potatoes";2.5;1;Large serving of roasted potatoes (300 g);300;"fruit, vegetables, potatoes"
-Savoury snacks;"--- none, please select ---";0;;"--- none, please select ---";0;
 Savoury snacks;"Crisps, potato, salted or flavoured";6;1;Small packet of crisps (25 g);25;cereals and grains
 Savoury snacks;"Crisps, potato, salted or flavoured";6;1;Small bowl of crisps (30 g);30;cereals and grains
 Savoury snacks;"Crisps, potato, salted or flavoured";6;1;Standard packet of crisps (40 g);40;cereals and grains
@@ -632,7 +613,6 @@ Savoury snacks;"Savoury crackers, e.g. cheese crackers or crispbreads";9;1;Two t
 Savoury snacks;"Savoury crackers, e.g. cheese crackers or crispbreads";9;1;Four to five savoury crackers (30 g);30;cereals and grains
 Savoury snacks;"Savoury crackers, e.g. cheese crackers or crispbreads";9;1;Small handful (40 g);40;cereals and grains
 Savoury snacks;"Savoury crackers, e.g. cheese crackers or crispbreads";9;1;Large handful (60 g);60;cereals and grains
-Meat;"--- none, please select ---";0;;"--- none, please select ---";0;
 Meat;"Beef and lamb, steak, roast beef, lamb chops or veal";27;0;Small piece of meat (75 g);75;meat
 Meat;"Beef and lamb, steak, roast beef, lamb chops or veal";27;0;Standard piece of meat (100 g);100;meat
 Meat;"Beef and lamb, steak, roast beef, lamb chops or veal";27;0;Medium serving of meat (125 g);125;meat
@@ -672,7 +652,6 @@ Meat;"Processed sliced and cured meats, ham, bacon, salami, chorizo or pastrami"
 Meat;"Processed sliced and cured meats, ham, bacon, salami, chorizo or pastrami";20;0;One standard slice of ham or deli meat (25 g);25;processed meat
 Meat;"Processed sliced and cured meats, ham, bacon, salami, chorizo or pastrami";20;0;A small handful of diced or shredded meat (50 g);50;processed meat
 Meat;"Processed sliced and cured meats, ham, bacon, salami, chorizo or pastrami";20;0;Three slices of roast meat (75 g);75;processed meat
-Breads and similar products;"--- none, please select ---";0;;"--- none, please select ---";0;
 Breads and similar products;"Bread, multigrain, wholemeal or seeded, including rolls";10;1;One thin slice of bread (25 g);25;cereals and grains
 Breads and similar products;"Bread, multigrain, wholemeal or seeded, including rolls";10;1;One standard slice of bread (35 g);35;cereals and grains
 Breads and similar products;"Bread, multigrain, wholemeal or seeded, including rolls";10;1;One small bread roll (40 g);40;cereals and grains
