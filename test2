@@ -1,0 +1,60 @@
+cat;sub_cat;protein_content;plant_protein;portion_unit;portion_g;food_type
+Eggs;"Egg, whole";12.4;0;Quail egg (10 g);9;eggs
+Eggs;"Egg, whole";12.4;0;Large hen egg (68 g);60;eggs
+Eggs;"Egg, whole";12.4;0;Duck egg (70 g);63;eggs
+Eggs;"Egg, whole";12.4;0;Extra-large hen egg (78 g);69;eggs
+Eggs;"Egg, white only";6.8;0;Quail egg (10 g);9;eggs
+Eggs;"Egg, white only";6.8;0;Large hen egg (68 g);60;eggs
+Eggs;"Egg, white only";6.8;0;Duck egg (70 g);63;eggs
+Eggs;"Egg, white only";6.8;0;Extra-large hen egg (78 g);69;eggs
+Eggs;"Egg, yolk only";5.5;0;Quail egg (10 g);9;eggs
+Eggs;"Egg, yolk only";5.5;0;Large hen egg (68 g);60;eggs
+Eggs;"Egg, yolk only";5.5;0;Duck egg (70 g);63;eggs
+Eggs;"Egg, yolk only";5.5;0;Extra-large hen egg (78 g);69;eggs
+Fish and seafood;"Fish, lean, marine or freshwater";18;0;Small fish fillet (60 g);60;seafood
+Fish and seafood;"Fish, lean, marine or freshwater";18;0;Typical fish fillet (90 g);90;seafood
+Fish and seafood;"Fish, lean, marine or freshwater";18;0;Large fish fillet (150 g);150;seafood
+Fish and seafood;"Fish, oily, salmon, trout, sardine or anchovies";20;0;One anchovy fillet (4 g);4;seafood
+Fish and seafood;"Fish, oily, salmon, trout, sardine or anchovies";20;0;Small fish fillet (60 g);60;seafood
+Fish and seafood;"Fish, oily, salmon, trout, sardine or anchovies";20;0;Typical fish fillet (90 g);90;seafood
+Fish and seafood;"Fish, oily, salmon, trout, sardine or anchovies";20;0;Large fish fillet (150 g);150;seafood
+Fish and seafood;"Fish, smoked or preserved";23;0;Small tin of anchovies (45 g);30;seafood
+Fish and seafood;"Fish, smoked or preserved";23;0;"Small tin of fish, e.g. sardines (120 g)";90;seafood
+Fish and seafood;"Fish, smoked or preserved";23;0;"Medium tin of fish, e.g. tuna (160 g)";112;seafood
+Fish and seafood;"Fish, smoked or preserved";23;0;Large tin of fish (300 g);225;seafood
+Fish and seafood;"Fish, marinated or pickled";17;0;Small serving (30 g);30;seafood
+Fish and seafood;"Fish, marinated or pickled";17;0;Small fish fillet (60 g);60;seafood
+Fish and seafood;"Fish, marinated or pickled";17;0;Typical fish fillet (90 g);90;seafood
+Fish and seafood;"Fish, marinated or pickled";17;0;Large fish fillet (150 g);150;seafood
+Fish and seafood;"Fish, tuna or swordfish";23;0;Small fish fillet (60 g);60;seafood
+Fish and seafood;"Fish, tuna or swordfish";23;0;Typical fish fillet (90 g);90;seafood
+Fish and seafood;"Fish, tuna or swordfish";23;0;"Medium tin of fish, e.g. tuna (160 g)";112;seafood
+Fish and seafood;"Fish, tuna or swordfish";23;0;Large fish fillet (150 g);150;seafood
+Fish and seafood;Fish fingers;12;0;One fish finger (30 g);30;seafood
+Fish and seafood;Fish fingers;12;0;Two fish fingers (60 g);60;seafood
+Fish and seafood;Fish fingers;12;0;Three fish fingers (90 g);90;seafood
+Fish and seafood;Fish fingers;12;0;Four fish fingers (120 g);120;seafood
+Fish and seafood;Fish paste or surimi;10;0;One surimi stick (16 g);16;seafood
+Fish and seafood;Fish paste or surimi;10;0;Thin layer of fish spread on one slice of bread (20 g);20;seafood
+Fish and seafood;Fish paste or surimi;10;0;"Generous fish spread, or spread on two slices (40 g)";40;seafood
+Fish and seafood;Fish paste or surimi;10;0;Two surimi sticks (32 g);32;seafood
+Fish and seafood;Mussels or clams;12;0;Ten mussels or clams (100–150 g with shells);20;seafood
+Fish and seafood;Mussels or clams;12;0;"Mussels, half a kilogram including shells (500 g)";112;seafood
+Fish and seafood;Mussels or clams;12;0;"Mussels, one kilogram including shells (1,000 g)";225;seafood
+Fish and seafood;Mussels or clams;12;0;Standard seafood portion (100 g edible);100;seafood
+Fish and seafood;Oysters;9;0;One oyster (15 g edible meat);15;seafood
+Fish and seafood;Oysters;9;0;Two oysters (30 g edible meat);30;seafood
+Fish and seafood;Oysters;9;0;Six oysters (90 g edible meat);90;seafood
+Fish and seafood;Oysters;9;0;Standard seafood portion (100 g edible);100;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;One small prawn/shrimp (4 g with shell);2;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;One medium prawn/shrimp (8 g with shell);5;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;One large prawn/shrimp (15 g with shell);10;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;Half a cup of cooked peeled shrimp (65 g);65;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;One cup of cooked peeled shrimp (135 g);135;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;One lobster claw (50 g with shell);20;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;Lobster tail (100 g with shell);50;seafood
+Fish and seafood;"Prawns, shrimp, crayfish, lobster or crab";19;0;Whole lobster (200 g with shell);50;seafood
+Fish and seafood;Squid or octopus;16;0;Small seafood portion (15 g edible);15;seafood
+Fish and seafood;Squid or octopus;16;0;Medium seafood portion (30 g edible);30;seafood
+Fish and seafood;Squid or octopus;16;0;Half a cup of cooked squid/calamari (65 g);65;seafood
+Fish and seafood;Squid or octopus;16;0;One cup of cooked squid/calamari (135 g);135;seafood
