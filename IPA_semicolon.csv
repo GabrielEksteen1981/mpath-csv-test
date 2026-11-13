@@ -1,5 +1,4 @@
 ﻿cat;sub_cat;protein_content;plant_protein;portion_unit;portion_g;food_type
-Alcoholic beverages;"--- none, please select ---";0;;"--- none, please select ---";0;
 Alcoholic beverages;"Beer, alcohol-free";0.5;1;Small glass or bottle (250 ml);250;other
 Alcoholic beverages;"Beer, alcohol-free";0.5;1;Standard bottle or can (330 ml);330;other
 Alcoholic beverages;"Beer, alcohol-free";0.5;1;Large glass or bottle (500 ml);500;other
